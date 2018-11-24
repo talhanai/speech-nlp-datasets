@@ -9,6 +9,9 @@ Contains 103 children that are native Czech speakers.
 - **Distress Analysis Interview Corpus** [[Corpus]](http://dcapswoz.ict.usc.edu) <br>
 Contains 189, 20-min long interviews of individuals speaking to a virtual agent. The corpus contains binary and multi-class labels for the severity of depression. The dataset contains audio recordings and features, text transcript, and facial features. The corpus was developed by [Gratch et al., (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) and featured in the [Audio Visual Emotion Challenge (AVEC) 2016, 2017](https://dl.acm.org/citation.cfm?id=3133953)
 
+- **LSVT Voice Rehabilitation Data Set** [[Corpus]](http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation) <br>
+Contains 14 subjects with Parkinson's Disease used to evaluate whether voice rehabilitation improves phonation. [(Tsanas et al., (2014))](https://ieeexplore.ieee.org/document/6678640)
+
 - **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) <br>
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
