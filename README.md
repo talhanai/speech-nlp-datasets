@@ -15,6 +15,10 @@ Contains audio recordings from 40 subjects (including 20 control) generating sou
 - **Oxford Parkinson Dataset** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/parkinsons) <br>
 Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913514/)
 
+- **Oxford Parkinson's Telemonitoring Dataset** [[Corpus]](http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring) <br>
+Monitoring of 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. [(Tsanas et al., (2009))](https://ieeexplore.ieee.org/document/5339170)
+
+
 - **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?) <br>
 Contains speech recordings from 99 children on the autism spectrum or language impairmet (specific or not). <br>
 Original paper describing the corpus by [Ringeval et al., (2010)](https://ieeexplore.ieee.org/document/5613153) and was also made available for the [Interspeech 2013 Computational Paralinguistic Challenge](https://www.isca-speech.org/iscapad/iscapad.php?module=article&id=4580&back=p,180).
