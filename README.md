@@ -12,6 +12,6 @@ Contains speech of children with different conditions (e.g. Autism, Down's syndr
 **Saarbruecken Voice Database** [[Corpus]](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4) <br>
 A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). <br>
 Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
-Example work: [Martínez, D., Lleida, E., Ortega, A., Miguel, A., & Villalba, J. (2012). Voice pathology detection on the Saarbrücken voice database with calibration and fusion of scores using multifocal toolkit. In Advances in speech and language technologies for Iberian Languages (pp. 99-109). Springer, Berlin, Heidelberg.](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
+Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
 
