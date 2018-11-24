@@ -3,16 +3,14 @@ Contains links to publicly available datasets for modeling health outcomes using
 
 ## Solo Release
 - **Speech Database of Typical Children and Children with SLI** [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) <br>
-Contains 103 children that are native Czech speakers. <br>
-[Grill et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786280/)
+Contains 103 children that are native Czech speakers.
+[(Grill et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786280/)
 
 - **Distress Analysis Interview Corpus** [[Corpus]](http://dcapswoz.ict.usc.edu) <br>
-Contains 189, 20-min long interviews of individuals speaking to a virtual agent. The corpus contains binary and multi-class labels for the severity of depression. The dataset contains audio recordings and features, text transcript, and facial features. <br>
-The corpus was developed by [Gratch et al., (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) and featured in the [Audio Visual Emotion Challenge (AVEC) 2016, 2017](https://dl.acm.org/citation.cfm?id=3133953)
+Contains 189, 20-min long interviews of individuals speaking to a virtual agent. The corpus contains binary and multi-class labels for the severity of depression. The dataset contains audio recordings and features, text transcript, and facial features. The corpus was developed by [Gratch et al., (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) and featured in the [Audio Visual Emotion Challenge (AVEC) 2016, 2017](https://dl.acm.org/citation.cfm?id=3133953)
 
 - **Saarbruecken Voice Database** [[Corpus]](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4) <br>
-A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). <br>
-Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
+A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
 Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
 - **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?) <br>
