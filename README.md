@@ -22,5 +22,5 @@ Contains recordings of individuals with dementia across different languages. Inc
 In addition to DementiaBank, TalkBank contains: 
 - [RHDBank](https://rhd.talkbank.org) individuals with Right-Hemisphere Disorder 
 - [TBIBank](https://tbi.talkbank.org) individuals with Traumatic Brain Injury
-- [AphasiaBank] (https://aphasia.talkbank.org) a communication disorder affecting ability to speak, write, and understand language due to some trauma to language parts of the brain.
+- [AphasiaBank](https://aphasia.talkbank.org) a communication disorder affecting ability to speak, write, and understand language due to some trauma to language parts of the brain.
 - [FluencyBank](https://fluency.talkbank.org) contains individuals with language disfluencies due to being a second language learner, or due to stuttering.
