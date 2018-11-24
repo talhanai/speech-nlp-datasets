@@ -16,11 +16,11 @@ Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/Davi
 
 - **DementiaBank** (from TalkBank) [[Corpus]](https://dementia.talkbank.org/access/) <br>
 Contains recordings of individuals with dementia across different languages. Includes around 400 subjects, most notable in size and containing control subjects is:
-- [English Pitt](https://dementia.talkbank.org/access/English/Pitt.html): Longitudinal neuropsychological assessments of 319 subjects (dementia + control) performing Cookie Theft, Word Fluency, Story Recall, and Sentence Construction task. [(Becker et al., 1994)](https://www.ncbi.nlm.nih.gov/pubmed/8198470)
+-- [English Pitt](https://dementia.talkbank.org/access/English/Pitt.html): Longitudinal neuropsychological assessments of 319 subjects (dementia + control) performing Cookie Theft, Word Fluency, Story Recall, and Sentence Construction task. [(Becker et al., 1994)](https://www.ncbi.nlm.nih.gov/pubmed/8198470)
 
 - **Clinical TalkBank** [Corpus](https://talkbank.org) <br>
 In addition to DementiaBank, TalkBank contains: 
-- [RHDBank](https://rhd.talkbank.org) individuals with Right-Hemisphere Disorder 
+-- [RHDBank](https://rhd.talkbank.org) individuals with Right-Hemisphere Disorder 
 - [TBIBank](https://tbi.talkbank.org) individuals with Traumatic Brain Injury
 - [AphasiaBank](https://aphasia.talkbank.org) a communication disorder affecting ability to speak, write, and understand language due to some trauma to language parts of the brain.
 - [FluencyBank](https://fluency.talkbank.org) contains individuals with language disfluencies due to being a second language learner, or due to stuttering.
