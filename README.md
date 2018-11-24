@@ -1,7 +1,8 @@
 # speech-nlp-datasets
 Contains links to publicly available datasets for modeling health outcomes using speech and language.
 
-- **Speech Database of Typical Children and Children with SLI** [Corpus](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) <br>
+## Solo Release
+- **Speech Database of Typical Children and Children with SLI** [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) <br>
 Contains 103 children that are native Czech speakers. <br>
 [Grill et al., 2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786280/)
 
@@ -14,7 +15,11 @@ A collection of speech recordings from more than 2,000 people following a transc
 Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
 Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
-## TalkBank
+- **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?)
+Contains speech recordings from 99 children on the autism spectrum or language impairmet (specific or not). <br>
+Original paper describing the corpus by [Ringeval et al., (2010)](https://ieeexplore.ieee.org/document/5613153) and was also made available for the [Interspeech 2013 Computational Paralinguistic Challenge](https://www.isca-speech.org/iscapad/iscapad.php?module=article&id=4580&back=p,180).
+
+## TalkBank Project
 - **CHILDES Database** [[Corpus]](https://childes.talkbank.org/access/Clinical/) <br>
 Contains speech of children with different conditions (e.g. Autism, Down's syndrome, hearing impairment) and across different languages (e.g. English, Dutch, Greek, Mandarin). <br>
 [MacWhinney, B. (2014). The CHILDES project: Tools for analyzing talk, Volume II: The database. Psychology Press.](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.259.8262&rep=rep1&type=pdf)
