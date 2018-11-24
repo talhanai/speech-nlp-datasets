@@ -14,4 +14,7 @@ A collection of speech recordings from more than 2,000 people following a transc
 Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
 Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
-
+**DementiaBank** (from TalkBank) [Corpus](https://dementia.talkbank.org/access/) <br>
+Contains recordings of individuals with dementia across different languages. Includes around 400 subjects. <br>
+- [English Holland](In accordance with TalkBank rules, any use of data from this corpus must be accompanied by at least one corpus reference. If none is given, please use the primary AphasiaBank reference: 
+MacWhinney, B., Fromm, D., Forbes, M. & Holland, A. (2011). AphasiaBank: Methods for studying discourse. Aphasiology, 25,1286-1307.): Video of 2 subjects [(MacWhinney et al., 2011)](https://www.tandfonline.com/doi/abs/10.1080/02687038.2011.589893) <br>
