@@ -9,22 +9,21 @@ Contains 103 children that are native Czech speakers.
 - **Distress Analysis Interview Corpus** [[Corpus]](http://dcapswoz.ict.usc.edu) <br>
 Contains 189, 20-min long interviews of individuals speaking to a virtual agent. The corpus contains binary and multi-class labels for the severity of depression. The dataset contains audio recordings and features, text transcript, and facial features. The corpus was developed by [Gratch et al., (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) and featured in the [Audio Visual Emotion Challenge (AVEC) 2016, 2017](https://dl.acm.org/citation.cfm?id=3133953)
 
-- **LSVT Voice Rehabilitation Data Set** [[Corpus]](http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation) <br>
+- **Oxford LSVT Voice Rehabilitation Data Set** [[Corpus]](http://archive.ics.uci.edu/ml/datasets/LSVT+Voice+Rehabilitation) <br>
 Contains 14 subjects with Parkinson's Disease used to evaluate whether voice rehabilitation improves phonation. [(Tsanas et al., (2014))](https://ieeexplore.ieee.org/document/6678640)
 
 - **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) <br>
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
-- **Oxford Parkinson Dataset** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/parkinsons) <br>
-Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913514/)
+- **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?) <br>
+Contains speech recordings from 99 children on the autism spectrum or language impairmet (specific or not). <br>
+Original paper describing the corpus by [Ringeval et al., (2010)](https://ieeexplore.ieee.org/document/5613153) and was also made available for the [Interspeech 2013 Computational Paralinguistic Challenge](https://www.isca-speech.org/iscapad/iscapad.php?module=article&id=4580&back=p,180).
 
 - **Oxford Parkinson's Telemonitoring Dataset** [[Corpus]](http://archive.ics.uci.edu/ml/datasets/Parkinsons+Telemonitoring) <br>
 Monitoring of 42 people with early-stage Parkinson's disease recruited to a six-month trial of a telemonitoring device for remote symptom progression monitoring. [(Tsanas et al., (2009))](https://ieeexplore.ieee.org/document/5339170)
 
-
-- **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?) <br>
-Contains speech recordings from 99 children on the autism spectrum or language impairmet (specific or not). <br>
-Original paper describing the corpus by [Ringeval et al., (2010)](https://ieeexplore.ieee.org/document/5613153) and was also made available for the [Interspeech 2013 Computational Paralinguistic Challenge](https://www.isca-speech.org/iscapad/iscapad.php?module=article&id=4580&back=p,180).
+- **Oxford Parkinson Dataset** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/parkinsons) <br>
+Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913514/)
 
 - **Saarbruecken Voice Database** [[Corpus]](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4) <br>
 A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
