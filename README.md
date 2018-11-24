@@ -16,5 +16,4 @@ Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/Davi
 
 **DementiaBank** (from TalkBank) [Corpus](https://dementia.talkbank.org/access/) <br>
 Contains recordings of individuals with dementia across different languages. Includes around 400 subjects. <br>
-- [English Holland](In accordance with TalkBank rules, any use of data from this corpus must be accompanied by at least one corpus reference. If none is given, please use the primary AphasiaBank reference: 
-MacWhinney, B., Fromm, D., Forbes, M. & Holland, A. (2011). AphasiaBank: Methods for studying discourse. Aphasiology, 25,1286-1307.): Video of 2 subjects [(MacWhinney et al., 2011)](https://www.tandfonline.com/doi/abs/10.1080/02687038.2011.589893) <br>
+- [English Holland](https://dementia.talkbank.org/access/English/Holland.html): Video of 2 subjects [(MacWhinney et al., 2011)](https://www.tandfonline.com/doi/abs/10.1080/02687038.2011.589893) <br>
