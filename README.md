@@ -12,7 +12,7 @@ Contains 189, 20-min long interviews of individuals speaking to a virtual agent.
 - **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) <br>
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
-- **Oxford Parkinson Dataset** ([Corpus])[https://archive.ics.uci.edu/ml/datasets/parkinsons] <br>
+- **Oxford Parkinson Dataset** [[Corpus]](https://archive.ics.uci.edu/ml/datasets/parkinsons) <br>
 Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1913514/)
 
 - **Child Pathological Speech Database (CPSD)** Corpus: (Contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf)?) <br>
