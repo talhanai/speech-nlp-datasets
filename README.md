@@ -8,7 +8,7 @@ Contains 103 children that are native Czech speakers. <br>
 
 - **Distress Analysis Interview Corpus** [[Corpus]](http://dcapswoz.ict.usc.edu) <br>
 Contains 189, 20-min long interviews of individuals speaking to a virtual agent. The corpus contains binary and multi-class labels for the severity of depression. The dataset contains audio recordings and features, text transcript, and facial features. <br>
-[Gratch et al., 2014](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf)
+The corpus was developed by [Gratch et al., (2014)](http://www.lrec-conf.org/proceedings/lrec2014/pdf/508_Paper.pdf) and featured in the [Audio Visual Emotion Challenge (AVEC) 2016, 2017](https://dl.acm.org/citation.cfm?id=3133953)
 
 - **Saarbruecken Voice Database** [[Corpus]](http://www.stimmdatenbank.coli.uni-saarland.de/help_en.php4) <br>
 A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). <br>
