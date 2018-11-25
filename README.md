@@ -18,6 +18,10 @@ Contains 50 subjects with varying severity of Parkinson's, speaking Spanish. Cor
 - [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set**  <br>
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
+- [[Corpus]](http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html) 
+**TORGO Databse** <br>
+Contains speech and articulatory data on 7 subjects with Cerebral Palsy or Amyotrophic Lateral Sclerosis. [(Rudzicz et al., (2010)](https://www.researchgate.net/publication/225446742_The_TORGO_database_of_acoustic_and_articulatory_speech_from_speakers_with_dysarthria))
+
 - **Child Pathological Speech Database (CPSD)** (contact [authors](http://www.isir.upmc.fr/files/2010ACLI1641.pdf) for corpus?) <br>
 Contains speech recordings from 99 children on the autism spectrum or language impairmet (specific or not). <br>
 Original paper describing the corpus by [Ringeval et al., (2010)](https://ieeexplore.ieee.org/document/5613153) and was also made available for the [Interspeech 2013 Computational Paralinguistic Challenge](https://www.isca-speech.org/iscapad/iscapad.php?module=article&id=4580&back=p,180).
