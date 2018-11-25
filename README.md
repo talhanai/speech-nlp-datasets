@@ -18,6 +18,10 @@ Contains 50 subjects with varying severity of Parkinson's, speaking Spanish. Cor
 - [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set**  <br>
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
+- [[Corpus]](http://www.demcare.eu/results/datasets)
+**Dem@Care** <br>
+Dataset that contains audio, video, physiologic signals of Greek dementia patients in the lab or their home. ([Factsheet](http://www.demcare.eu/downloads/Dem@Care-fp7factsheet%20PHS.pdf))
+
 - [[Corpus]](http://www.cs.toronto.edu/~complingweb/data/TORGO/torgo.html) 
 **TORGO Databse** <br>
 Contains speech and articulatory data on 7 subjects with Cerebral Palsy or Amyotrophic Lateral Sclerosis. [(Rudzicz et al., (2010)](https://www.researchgate.net/publication/225446742_The_TORGO_database_of_acoustic_and_articulatory_speech_from_speakers_with_dysarthria))
