@@ -50,4 +50,4 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
   - [FluencyBank](https://fluency.talkbank.org) contains individuals with language disfluencies due to being a second language learner, or due to stuttering.
   
  ## MIMIC III (Medical Information Mart for Intensive Care)
- Contains medical details and outcomes of $40,000+ patients (e.g. demographics, vital signs, laboratory tests, medications) as well as 2M+ free-text written medical notes from medical personnel (e.g. physicians, nurses, etc.).
+ Contains medical details and outcomes of $40,000+ patients (e.g. demographics, vital signs, laboratory tests, medications) as well as 2M+ free-text written medical notes from medical personnel (e.g. physicians, nurses, etc.). Corpus is available [here](https://mimic.mit.edu), and described by [Johnson et al., (2016)](https://www.nature.com/articles/sdata201635).
