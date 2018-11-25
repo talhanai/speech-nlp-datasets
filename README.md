@@ -48,3 +48,6 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
   - [TBIBank](https://tbi.talkbank.org) individuals with Traumatic Brain Injury
   - [AphasiaBank](https://aphasia.talkbank.org) a communication disorder affecting ability to speak, write, and understand language due to some trauma to language parts of the brain.
   - [FluencyBank](https://fluency.talkbank.org) contains individuals with language disfluencies due to being a second language learner, or due to stuttering.
+  
+ ## MIMIC III (Medical Information Mart for Intensive Care)
+ Contains medical details and outcomes of $40,000+ patients (e.g. demographics, vital signs, laboratory tests, medications) as well as 2M+ free-text written medical notes from medical personnel (e.g. physicians, nurses, etc.).
