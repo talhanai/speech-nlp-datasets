@@ -55,4 +55,4 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
  Contains medical details and outcomes of 40,000+ patients (e.g. demographics, vital signs, laboratory tests, medications) as well as 2M+ free-text written medical notes from medical personnel (e.g. physicians, nurses, etc.). ([Johnson et al., (2016)](https://www.nature.com/articles/sdata201635)).
  
  - **i2b2/UTHealth NLP Task** (contact [authors](https://www.ncbi.nlm.nih.gov/pubmed/26433122) for corpus?) <br>
- Contains emergency medical records for 296 patients at Partners HealthCare and medical discharge and correspondance notes between medical personnel. ([Kumar et al., (2014)](https://www.ncbi.nlm.nih.gov/pubmed/26433122))
+ Contains emergency medical records for 296 patients at Partners HealthCare and medical discharge and correspondance notes between medical personnel. [Kumar et al., (2014)](https://www.ncbi.nlm.nih.gov/pubmed/26433122) describes how the data was processed, and [Stubbs et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1532046415001409#b0050) describes the 2014 task of identifying risk factors for heart disease over time.
