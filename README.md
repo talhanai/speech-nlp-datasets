@@ -68,3 +68,6 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
  
  - **i2b2/UTHealth NLP Task** (contact [authors](https://www.ncbi.nlm.nih.gov/pubmed/26433122) for corpus?) <br>
  Contains emergency medical records for 296 patients at Partners HealthCare and medical discharge and correspondance notes between medical personnel. [Kumar et al., (2014)](https://www.ncbi.nlm.nih.gov/pubmed/26433122) describes how the data was processed, and [Stubbs et al. (2014)](https://www.sciencedirect.com/science/article/pii/S1532046415001409#b0050) describes the 2014 task of identifying risk factors for heart disease over time.
+ 
+ - **Nun Study** (contact [authors](https://www.ncbi.nlm.nih.gov/pubmed/8606473) for corpus?) <br>
+ Looked at diary writing style of 93 nuns to evaluate cognitive impairment. Also contains neuropsychology tests and autopsy information. Study was authored by ([Snowdon et al.,(1996)](https://pdfs.semanticscholar.org/03a9/2b940974756d0dbc4fa1a08f05b31ec9f18f.pdf))
