@@ -3,7 +3,7 @@ Contains links to publicly available datasets for modeling health outcomes using
 
 ## Speech-based Corpora
 - [[Corpus]](https://lindat.mff.cuni.cz/repository/xmlui/handle/11372/LRT-1597) **Speech Database of Typical Children and Children with SLI**  <br>
-Contains 103 children that are native Czech speakers.
+Contains 103 children that are native Czech speakers with `specific language impairment`.
 [(Grill et al., 2016)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4786280/)
 
 - [[Corpus]](https://www.nature.com/articles/sdata201611#usage-notes)
