@@ -44,6 +44,8 @@ Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.n
 A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
 Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
+- [[Corpus]](<https://github.com/Mak-Sim/Troparion/tree/master/SPA2019>) **ALS Voice Data Set** <br>
+Contains voice recordings of 54 speakers, with 39 healthy speakers (23 males, 16 females) and 15 ALS patients with signs of bulbar dysfunction (6 males, 9 females). [(Vashkevich et al., (2019))](https://www.bsuir.by/m/12_100229_1_139167.pdf) 
 
 ## TalkBank Project
 - [[Corpus]](https://childes.talkbank.org/access/Clinical/) **CHILDES Database**  <br>
