@@ -23,7 +23,7 @@ Contains 50 subjects with varying severity of Parkinson's, speaking Spanish. Cor
 Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
 
 - [[Corpus]](<https://zenodo.org/record/2867216#.XeTbN59R2BZ>) **Mobile Device Voice Recordings at King's College London (MDVR-KCL) from both early and advanced Parkinson's disease patients and healthy controls**  <br>
-The dataset description will start with describing the local conditions and other metadata, then will continue with describing the recording procedure and annotation methodology. Finally, a brief description of the dataset deployment and publication will be given. [(Hagen Jaeger; Dhaval Trivedi; Michael Stadtschnitzer, (2019)), doi:10.5281/zenodo.2867216]
+(Jaeger et al. (2019), doi:10.5281/zenodo.2867216))
 
 - [[Corpus]](http://www.demcare.eu/results/datasets)
 **Dem@Care** <br>
