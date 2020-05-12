@@ -19,8 +19,8 @@ Contains 14 subjects with Parkinson's Disease used to evaluate whether voice reh
 - **Spanish Parkinson Corpus** (contact [authors](https://www.researchgate.net/profile/Juan_Rafael_Orozco/publication/265592171_New_Spanish_speech_corpus_database_for_the_analysis_of_people_suffering_from_Parkinson's_disease/links/5497130f0cf29b944826211a/New-Spanish-speech-corpus-database-for-the-analysis-of-people-suffering-from-Parkinsons-disease.pdf) for corpus?)  <br>
 Contains 50 subjects with varying severity of Parkinson's, speaking Spanish. Corpus was first presented by [(Arroyave et al., (2014))](https://www.researchgate.net/profile/Juan_Rafael_Orozco/publication/265592171_New_Spanish_speech_corpus_database_for_the_analysis_of_people_suffering_from_Parkinson's_disease/links/5497130f0cf29b944826211a/New-Spanish-speech-corpus-database-for-the-analysis-of-people-suffering-from-Parkinsons-disease.pdf) and subsequently featured in the [Interspeech 2015 Computational Paralinguistics Challenge](https://www.mmk.ei.tum.de/fileadmin/w00bqn/www/Publikationen/is2015_compare.pdf).
 
-- [[Corpus]](https://archive.ics.uci.edu/ml/datasets/Parkinson+Speech+Dataset+with++Multiple+Types+of+Sound+Recordings#) **Parkinson Speech Dataset with Multiple Types of Sound Recordings Data Set**  <br>
-Contains audio recordings from 40 subjects (including 20 control) generating sounds accordings to a transcript (sustained vowel, numbers, short sentences, words) from Turkey. [(Sakar et al., (2013))](https://ieeexplore.ieee.org/document/6451090)
+- [[Corpus]](<https://zenodo.org/record/2867216#.XeTbN59R2BZ>) **Mobile Device Voice Recordings at King's College London (MDVR-KCL) from both early and advanced Parkinson's disease patients and healthy controls**  <br>
+The dataset description will start with describing the local conditions and other metadata, then will continue with describing the recording procedure and annotation methodology. Finally, a brief description of the dataset deployment and publication will be given. [(Hagen Jaeger; Dhaval Trivedi; Michael Stadtschnitzer, (2019)), doi:10.5281/zenodo.2867216]
 
 - [[Corpus]](http://www.demcare.eu/results/datasets)
 **Dem@Care** <br>
@@ -44,6 +44,8 @@ Contains recordings from 31 individuals. [(Little et al., (2007))](https://www.n
 A collection of speech recordings from more than 2,000 people following a transcript of pronouncing vowels and a sentence. Each recording has an associated EEG signal. A subset of the speakers have a pathology (e.g. Laryngitis, Parkinson's disease). Citation: [Barry, W. J., & Pützer, M. (2007). Saarbrucken voice database. Institute of Phonetics, Universität des Saarlandes, http://www. stimmdatenbank. coli. uni-saarland. de.](http://www.stimmdatenbank.coli.uni-saarland.de.) <br>
 Example work: [Martínez et al., 2012](https://www.researchgate.net/profile/David_Martinez30/publication/258847633_Voice_Pathology_Detection_on_the_Saarbrucken_Voice_Database_with_Calibration_and_Fusion_of_Scores_Using_MultiFocal_Toolkit/links/00b495293a43b3c12f000000.pdf) 
 
+- [[Corpus]](<https://github.com/Mak-Sim/Troparion/tree/master/SPA2019>) **ALS Voice Data Set** <br>
+Contains voice recordings of 54 speakers, with 39 healthy speakers (23 males, 16 females) and 15 ALS patients with signs of bulbar dysfunction (6 males, 9 females). [(Vashkevich et al., (2019))](https://www.bsuir.by/m/12_100229_1_139167.pdf) 
 
 ## TalkBank Project
 - [[Corpus]](https://childes.talkbank.org/access/Clinical/) **CHILDES Database**  <br>
