@@ -67,6 +67,9 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
   - [FluencyBank](https://fluency.talkbank.org) contains individuals with language disfluencies due to being a second language learner, or due to stuttering.
 
 ## Text-based Corpora
+- [[Corpus](https://github.com/falwah-alhamed/Depression_Tweets) __Depressed Users on Twitter__ <br>
+Contains approximately ~2M twitter posts for 120 users. ([Alhamed et al., (2024)](https://aclanthology.org/2024.lrec-main.289/))
+
 - [[Corpus](https://georgetown-ir-lab.github.io/emnlp17-depression/)] __Reddit Self-reported Depression Diagnosis (RSDD) dataset__ <br>
 Contains Reddit posts for ~9,000 users with a claim to depression and ~107,000 control users. ([Yates et al., (2017)](https://www.aclweb.org/anthology/D17-1322.pdf))
 
