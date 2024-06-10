@@ -70,6 +70,9 @@ In addition to [DementiaBank](https://dementia.talkbank.org/access/), TalkBank c
 - [[Corpus](https://github.com/falwah-alhamed/Depression_Tweets)] __Depressed Users on Twitter__ <br>
 Contains approximately ~2M twitter posts for 120 users with self-reported depression. ([Alhamed et al., (2024)](https://aclanthology.org/2024.lrec-main.289/))
 
+- [[Corpus](https://github.com/mohsinulkabir14/DEPTWEET)] __DEPTWEET__ <br>
+Contains ~40K tweets that were labeled into 4-levels of depression via crowd-sourcing and clinical experts. ([Kabir et al. (2022)](https://www.sciencedirect.com/science/article/pii/S0747563222003235))
+
 - [[Corpus](https://georgetown-ir-lab.github.io/emnlp17-depression/)] __Reddit Self-reported Depression Diagnosis (RSDD) dataset__ <br>
 Contains Reddit posts for ~9,000 users with a claim to depression and ~107,000 control users. ([Yates et al., (2017)](https://www.aclweb.org/anthology/D17-1322.pdf))
 
